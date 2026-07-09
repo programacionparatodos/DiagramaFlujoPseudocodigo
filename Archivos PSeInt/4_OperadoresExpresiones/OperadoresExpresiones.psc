@@ -5,8 +5,12 @@ Algoritmo OperadoresExpresiones
 	edad <- 30; // Utilizamos el operador de asignación '<-' para almacenar un dato dentro de la caja edad
 	
 	// Definimos variables para utilizarlos como operandos y para almacenar un resultado de una operación aritmética
+
 	Definir numero1, numero2, suma, resta, cocienteReal, producto, potencia Como Real;
 	Definir cocienteEntero, residuo Como Entero;
+
+	Definir numero1, numero2, suma, resta, cocienteReal, cocienteEntero, potencia Como Real;
+	Definir producto, residuo Como Entero;
 	
 	// Desplegamos un mensaje al usuario para que sepa que tipo de dato ingresar
 	Escribir 'Ingrese un valor para el primer número: ';
@@ -19,7 +23,11 @@ Algoritmo OperadoresExpresiones
 	producto = numero1 * numero2;	// Utilizamos el operador de multiplicación o producto '*'
 	cocienteReal = numero1 / numero2; 			// Utilizamos el operador de división '/' con parte decimal
 	cocienteEntero = trunc(numero1 / numero2); 	// Utilizamos el operador de división '/' solo con la parte entera trunc()
+
 	residuo = trunc(numero1) % trunc(numero2);				// Utilizamos el operador de residuo o módulo '%' de la división
+
+	residuo = numero1 % numero2;				// Utilizamos el operador de residuo o módulo '%' de la división
+
 	potencia <- numero1 ^ numero2;				// Utilizamos el operador de potencia '^'
 	Escribir numero1, " + ", numero2, " = ", suma;				// Mostramos el resultado de la expresión evaluada con la suma
 	Escribir numero1, " - ", numero2, " = ", resta;				// Mostramos el resultado de la expresión evaluada con la resta
