@@ -36,3 +36,11 @@ El material se organiza por módulos para facilitar la navegación:
 * Estructura repetitiva Mientras (While).
 * Estructura repetitiva Repetir (Do-While).
 * Estructura repetitiva Para (For).
+
+## 🌐 Conéctate con la Comunidad
+
+¡Súmate a nuestros canales oficiales para no perderte ningún tutorial y resolver tus dudas con otros estudiantes!
+
+[![YouTube](https://shields.io)](https://tinyurl.com/ProgramacionParaTodos/?sub_confirmation=1)
+[![WhatsApp](https://shields.io)](https://tinyurl.com/ChannelWhatsAppPPT)
+[![Telegram](https://shields.io)](https://t.me/ProgramacionParaTodos)
