@@ -41,6 +41,9 @@ El material se organiza por módulos para facilitar la navegación:
 
 ¡Súmate a nuestros canales oficiales para no perderte ningún tutorial y resolver tus dudas con otros estudiantes!
 
-[![YouTube](https://shields.io)](https://tinyurl.com/ProgramacionParaTodos/?sub_confirmation=1)
-[![WhatsApp](https://shields.io)](https://tinyurl.com/ChannelWhatsAppPPT)
-[![Telegram](https://shields.io)](https://t.me/ProgramacionParaTodos)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://tinyurl.com/ProgramacionParaTodos/?sub_confirmation=1)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tinyurl.com/ChannelWhatsAppPPT)
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ProgramacionParaTodos)
+
